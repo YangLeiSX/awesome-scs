@@ -115,6 +115,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - Lexer](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS203)
 * [2017 - LexicalAnalysis](https://github.com/somecat1996/LexicalAnalysis)
 * [2018 - Lexer](https://github.com/LuminousXLB/Homework_IS/tree/cp)
+* [2020 - Seal Compiler](https://github.com/chenhs1641/SJTU-IS203)
 
 &nbsp;
 
@@ -126,6 +127,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2018 - ITC](https://github.com/dujiajun/ITC)
 * [2019 - Huffman Coding](https://github.com/pydxflwb/Huffman-Coding)
 * [2019 - ArithCodingSJTU](https://github.com/YangLeiSX/ArithCodingSJTU)
+* [2019 - HuffmanFileCompression ](https://github.com/LeafCCC/HuffmanFileCompression)
 
 &nbsp;
 
@@ -159,6 +161,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - wsniffer](https://github.com/waderwu/wsniffer)
 * [2018 - SnifferZ](https://github.com/QingruZhang/SnifferZ)
 * [2019 - ComputerNetworkSJTU](https://github.com/YangLeiSX/ComputerNetworkSJTU)
+* [2020 - winSniffer](https://github.com/Sail3r/winSniffer)
 
 #### Packet Sender
 
@@ -203,6 +206,8 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2019 - Student-Information-Administration-System](https://github.com/KuroChan1998/Student-Information-Administration-System)
 * [2019 - CourseBlock](https://github.com/dujiajun/CourseBlock)
 * [2020 - CanvasUpdater](https://github.com/YangLeiSX/CanvasUpdater)
+* [2021 - Anime-Coloring-Tool](https://github.com/yangco-le/Colorization_Tool_on_Web)
+* [2021 - JTrace](https://github.com/Rainy-Imola/backend)
 
 &nbsp;
 
